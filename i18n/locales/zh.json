@@ -1,0 +1,93 @@
+{
+    "translation": {
+        "navbar": {
+            "whoWeAre": "关于我们",
+            "groupCompanies": "集团与企业",
+            "news": "新闻",
+            "contacts": "联系我们"
+        },
+        "hero": {
+            "tagline": "全球贸易卓越服务",
+            "title1": "贸易与物流",
+            "title2": "医药行业",
+            "subtitle": "活性药物成分 (API) 技术中介和高精度医院物流，连接全球合规市场。",
+            "ctaContact": "联系我们",
+            "ctaDiscover": "了解更多"
+        },
+        "about": {
+            "sectionTitle": "关于我们",
+            "title": "国际贸易卓越",
+            "description1": "MP Trading 是一家专业的贸易公司，专注于医疗医院领域、医疗健康商业中介以及医疗、医院和活性药物成分 (API) 产品的物流。",
+            "description2": "我们还作为控股公司运营，在美国和巴西拥有股权参与，巩固我们的全球业务和交付能力。",
+            "stat1Label": "年经验",
+            "stat2Label": "布局",
+            "stat3Label": "业务领域",
+            "sector1Title": "医药",
+            "sector1Desc": "API和成品药物的贸易，重点供应结核病治疗药物。",
+            "sector2Title": "医疗医院",
+            "sector2Desc": "专注于耳鼻喉科、头颈外科和言语治疗的材料。",
+            "sector3Title": "冶金",
+            "sector3Desc": "销售不锈钢板、生铁和建筑用钢梁。",
+            "sector4Title": "控股",
+            "sector4Desc": "在美国和巴西公司的股权参与。"
+        },
+        "values": {
+            "sectionTitle": "我们的支柱",
+            "title": "使命、愿景与价值观",
+            "mission": "使命",
+            "missionDesc": "提供卓越产品，建立持久合作伙伴关系，为所有利益相关者创造可持续价值。",
+            "vision": "愿景",
+            "visionDesc": "成为中介和贸易的全球标杆，为客户提供卓越服务和创新。",
+            "values": "价值观",
+            "valuesDesc": "道德、诚信，尊重我们运营所在所有市场的文化和法律。专注结果和客户满意度。"
+        },
+        "groupCompanies": {
+            "sectionTitle": "集团与企业",
+            "title": "卓越生态系统",
+            "subtitle": "了解组成我们集团的公司以及帮助我们提供完整解决方案的战略合作伙伴。",
+            "description": "我们的定位不仅仅是在单一行业运营，而是源于整合：我们通过战略公司和合作伙伴开展工作，连接制药和API、专业物流和冶金行业供应的专业知识。这种结构使我们能够确保每项操作的质量、可追溯性和效率。"
+        },
+        "contact": {
+            "sectionTitle": "联系我们",
+            "title": "让我们交谈",
+            "subtitle": "我们随时准备帮助您的业务全球扩展。",
+            "formName": "姓名",
+            "formEmail": "电子邮件",
+            "formPhone": "电话",
+            "formMessage": "留言",
+            "formSubmit": "发送消息",
+            "formSubmitting": "发送中...",
+            "formSuccess": "消息发送成功！",
+            "formError": "发送消息时出错。请重试。"
+        },
+        "location": {
+            "sectionTitle": "位置",
+            "title": "我们的位置",
+            "address": "Moreira & Pinheiro Trading, Lda.",
+            "viewOnMaps": "在Google地图上查看"
+        },
+        "footer": {
+            "description": "全球贸易和物流领域的卓越服务，安全高效地跨境连接业务。",
+            "company": "公司",
+            "groupPartners": "集团与合作伙伴",
+            "support": "支持",
+            "talkToUs": "联系我们",
+            "privacyPolicy": "隐私政策",
+            "termsOfUse": "使用条款",
+            "allRightsReserved": "版权所有。",
+            "madeBy": "制作者"
+        },
+        "news": {
+            "pageTitle": "新闻与动态",
+            "pageSubtitle": "了解行业和我们公司的最新消息。",
+            "readMore": "阅读更多",
+            "noNews": "暂无新闻。",
+            "share": "分享",
+            "backToNews": "返回新闻"
+        },
+        "contactPage": {
+            "title": "Moreira & Pinheiro Trading",
+            "subtitle": "我们随时为您解答任何问题并助力您的业务发展。"
+        }
+    }
+}

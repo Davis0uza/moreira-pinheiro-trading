@@ -1,0 +1,93 @@
+{
+    "translation": {
+        "navbar": {
+            "whoWeAre": "Who We Are?",
+            "groupCompanies": "Group & Companies",
+            "news": "News",
+            "contacts": "Contacts"
+        },
+        "hero": {
+            "tagline": "EXCELLENCE IN GLOBAL TRADING",
+            "title1": "Trading and Logistics",
+            "title2": "Pharmaceutical",
+            "subtitle": "Technical intermediation of Active Pharmaceutical Ingredients (APIs) and high-precision hospital logistics, connecting markets with global compliance.",
+            "ctaContact": "Contact Us",
+            "ctaDiscover": "Learn More"
+        },
+        "about": {
+            "sectionTitle": "WHO WE ARE",
+            "title": "Excellence in International Trade",
+            "description1": "MP Trading is a commercial trading company specialized in the medical-hospital sector, business intermediation in healthcare and logistics of medical, hospital and Active Pharmaceutical Ingredient (API) products.",
+            "description2": "We also operate as a holding company, with equity stakes in companies located in the United States and Brazil, consolidating our global presence and delivery capacity.",
+            "stat1Label": "Years of Experience",
+            "stat2Label": "Presence",
+            "stat3Label": "Business Sectors",
+            "sector1Title": "Pharmaceutical",
+            "sector1Desc": "Trading of APIs and finished medicines, with emphasis on tuberculosis treatment supply.",
+            "sector2Title": "Medical-Hospital",
+            "sector2Desc": "Materials focused on Otolaryngology, Head and Neck Surgery and Speech Therapy.",
+            "sector3Title": "Metallurgical",
+            "sector3Desc": "Sale of stainless steel sheets, pig iron and steel beams for civil construction.",
+            "sector4Title": "Holding",
+            "sector4Desc": "Equity participation in companies in the United States and Brazil."
+        },
+        "values": {
+            "sectionTitle": "OUR PILLARS",
+            "title": "Mission, Vision & Values",
+            "mission": "Mission",
+            "missionDesc": "Offer excellence products, building lasting partnerships and generating sustainable value for all our stakeholders.",
+            "vision": "Vision",
+            "visionDesc": "Be a global reference in intermediation and trading, offering excellence services and innovation to our clients.",
+            "values": "Values",
+            "valuesDesc": "Ethics, integrity and respect for the cultures and laws of all markets where we operate. Focus on results and customer satisfaction."
+        },
+        "groupCompanies": {
+            "sectionTitle": "GROUP & COMPANIES",
+            "title": "An Ecosystem of Excellence",
+            "subtitle": "Meet the companies that form our group and the strategic partners that help us deliver complete solutions.",
+            "description": "More than operating in a single sector, our positioning stems from integration: we work through strategic companies and partners, connecting expertise in pharmaceuticals and APIs, specialized logistics and supply for the metallurgical sector. This structure allows us to ensure quality, traceability and efficiency in every operation."
+        },
+        "contact": {
+            "sectionTitle": "CONTACT US",
+            "title": "Let's Talk",
+            "subtitle": "We are ready to help your business expand globally.",
+            "formName": "Full Name",
+            "formEmail": "Email",
+            "formPhone": "Phone",
+            "formMessage": "Message",
+            "formSubmit": "Send Message",
+            "formSubmitting": "Sending...",
+            "formSuccess": "Message sent successfully!",
+            "formError": "Error sending message. Please try again."
+        },
+        "location": {
+            "sectionTitle": "LOCATION",
+            "title": "Where We Are",
+            "address": "Moreira & Pinheiro Trading, Lda.",
+            "viewOnMaps": "View on Google Maps"
+        },
+        "footer": {
+            "description": "Excellence in global trading and logistics, connecting businesses across borders with security and efficiency.",
+            "company": "Company",
+            "groupPartners": "Group and Partners",
+            "support": "Support",
+            "talkToUs": "Contact Us",
+            "privacyPolicy": "Privacy Policy",
+            "termsOfUse": "Terms of Use",
+            "allRightsReserved": "All rights reserved.",
+            "madeBy": "Made by"
+        },
+        "news": {
+            "pageTitle": "News & Updates",
+            "pageSubtitle": "Stay updated with the latest news from the sector and our company.",
+            "readMore": "Read More",
+            "noNews": "No news available.",
+            "share": "Share",
+            "backToNews": "Back to News"
+        },
+        "contactPage": {
+            "title": "Moreira & Pinheiro Trading",
+            "subtitle": "We are at your disposal to answer any questions and boost your business."
+        }
+    }
+}

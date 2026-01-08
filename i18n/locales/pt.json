@@ -1,0 +1,93 @@
+{
+    "translation": {
+        "navbar": {
+            "whoWeAre": "Quem Somos?",
+            "groupCompanies": "Grupo & Empresas",
+            "news": "Notícias",
+            "contacts": "Contactos"
+        },
+        "hero": {
+            "tagline": "EXCELÊNCIA EM TRADING GLOBAL",
+            "title1": "Trading e Logística",
+            "title2": "Farmacêutica",
+            "subtitle": "Intermediação técnica de Insumos Farmacêuticos Ativos (IFAs) e logística hospitalar de alta precisão, conectando mercados com conformidade global.",
+            "ctaContact": "Fale Connosco",
+            "ctaDiscover": "Saiba Mais"
+        },
+        "about": {
+            "sectionTitle": "QUEM SOMOS",
+            "title": "Excelência em Comércio Internacional",
+            "description1": "A MP Trading é uma commercial trading especializada no segmento médico-hospitalar, intermediação de negócios na área de saúde e logística de produtos médicos, hospitalares e Insumos Farmacêuticos Ativos (IFAs).",
+            "description2": "Operamos também como holding, com participação acionária em empresas localizadas nos Estados Unidos e no Brasil, consolidando a nossa presença global e capacidade de entrega.",
+            "stat1Label": "Anos de Experiência",
+            "stat2Label": "Atuação",
+            "stat3Label": "Sectores de Atuação",
+            "sector1Title": "Farmacêutico",
+            "sector1Desc": "Comercialização de IFAs e medicamentos acabados, com destaque no fornecimento para tratamento da tuberculose.",
+            "sector2Title": "Médico-Hospitalar",
+            "sector2Desc": "Materiais com foco em Otorrinolaringologia, Cirurgia de Cabeça e Pescoço e Fonoaudiologia.",
+            "sector3Title": "Metalúrgico",
+            "sector3Desc": "Venda de chapas de aço inox, ferro-gusa e vigas de aço para construção civil.",
+            "sector4Title": "Holding",
+            "sector4Desc": "Participação acionária em empresas nos Estados Unidos e Brasil."
+        },
+        "values": {
+            "sectionTitle": "OS NOSSOS PILARES",
+            "title": "Missão, Visão & Valores",
+            "mission": "Missão",
+            "missionDesc": "Oferecer produtos de excelência, construindo parcerias duradouras e gerando valor sustentável para todos os nossos stakeholders.",
+            "vision": "Visão",
+            "visionDesc": "Ser referência global em intermediação e comercialização, oferecendo serviços de excelência e inovação aos nossos clientes.",
+            "values": "Valores",
+            "valuesDesc": "Ética, integridade e respeito pelas culturas e legislações de todos os mercados onde atuamos. Foco no resultado e satisfação do cliente."
+        },
+        "groupCompanies": {
+            "sectionTitle": "GRUPO & EMPRESAS",
+            "title": "Um Ecossistema de Excelência",
+            "subtitle": "Conheça as empresas que formam o nosso grupo e os parceiros estratégicos que nos ajudam a entregar soluções completas.",
+            "description": "Mais do que atuar num único setor, o nosso posicionamento nasce da integração: trabalhamos através de empresas e parceiros estratégicos, conectando competências em farmacêuticos e IFAs, logística especializada e fornecimento para o setor metalúrgico. É esta estrutura que nos permite garantir qualidade, rastreabilidade e eficiência em cada operação."
+        },
+        "contact": {
+            "sectionTitle": "CONTACTE-NOS",
+            "title": "Vamos Conversar",
+            "subtitle": "Estamos prontos para ajudar o seu negócio a expandir globalmente.",
+            "formName": "Nome Completo",
+            "formEmail": "Email",
+            "formPhone": "Telefone",
+            "formMessage": "Mensagem",
+            "formSubmit": "Enviar Mensagem",
+            "formSubmitting": "A enviar...",
+            "formSuccess": "Mensagem enviada com sucesso!",
+            "formError": "Erro ao enviar mensagem. Tente novamente."
+        },
+        "location": {
+            "sectionTitle": "LOCALIZAÇÃO",
+            "title": "Onde Estamos",
+            "address": "Moreira & Pinheiro Trading, Lda.",
+            "viewOnMaps": "Ver no Google Maps"
+        },
+        "footer": {
+            "description": "Excelência em trading global e logística, conectando negócios através de fronteiras com segurança e eficiência.",
+            "company": "Empresa",
+            "groupPartners": "Grupo e parceiros",
+            "support": "Suporte",
+            "talkToUs": "Fale Connosco",
+            "privacyPolicy": "Política de Privacidade",
+            "termsOfUse": "Termos de Uso",
+            "allRightsReserved": "Todos os direitos reservados.",
+            "madeBy": "Made by"
+        },
+        "news": {
+            "pageTitle": "Notícias & Novidades",
+            "pageSubtitle": "Mantenha-se atualizado com as últimas novidades do setor e da nossa empresa.",
+            "readMore": "Ler Mais",
+            "noNews": "Sem notícias disponíveis.",
+            "share": "Partilhar",
+            "backToNews": "Voltar às Notícias"
+        },
+        "contactPage": {
+            "title": "Moreira & Pinheiro Trading",
+            "subtitle": "Estamos à sua disposição para esclarecer qualquer dúvida e potenciar o seu negócio."
+        }
+    }
+}
